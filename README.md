@@ -2,7 +2,7 @@
 
 👀 I’m interested in **web development** with a focus on **Python, HTML, CSS, JavaScript, Vue.js**, and the **Frappe framework**.  
 
-🌱 I’m currently learning **Vue.js** to enhance my frontend skills and diving deeper into **Frappe framework** to become proficient in ** Frappe** development.  
+🌱 I’m currently learning **Vue.js** to enhance my frontend skills and diving deeper into **Frappe framework** to become proficient in **Frappe** development.  
 
 💞️ I’m looking to collaborate on open-source **ERP** and **business management** applications, and contribute to projects using **Frappe**.  
 
